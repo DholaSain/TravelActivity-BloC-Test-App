@@ -1,5 +1,7 @@
 # 🧭 Travel Activity & Event Discovery App (Flutter + BLoC + SQLite)
 
+> 90 Mins Task | 1 Developer | 1 App
+
 A simple Flutter module to help solo travelers discover activities and events in
 their destination city. Built with **clean architecture (simplified)**, **BLoC
 state management**, and **offline support** via SQLite.
